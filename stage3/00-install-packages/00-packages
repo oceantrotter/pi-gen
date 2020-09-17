@@ -6,3 +6,4 @@ python3-pip python3-numpy pypy
 wiringpi pigpio python3-pigpio raspi-gpio python3-gpiozero python3-rpi.gpio
 python3-spidev python3-twython python3-smbus
 ffmpeg
+i2c-tools
